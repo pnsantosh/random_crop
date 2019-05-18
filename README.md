@@ -2,7 +2,7 @@
 ## run ```python  random_crop.py```
 
 # libraries used
-## numpy, opencv, python2.7
+## numpy, opencv, python2.7 (also tested on python3.5)
 
 ## output will saved in ``` random_crop_out ``` folder
 ### check for samples in ``` sample_random_crop_out ```
