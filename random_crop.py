@@ -41,7 +41,7 @@ def main():
 	mask = cv2.imread('mask.png', cv2.IMREAD_UNCHANGED)
 	crop_size = [256, 256]
 	
-	# set number of maximum trials for random crop (if required area isn't found)
+	# set number of maximum trials for random crop (simply to test)
 	max_trials = 10
 
 	# area
